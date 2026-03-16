@@ -1,13 +1,13 @@
 p {
-    color: snow;
+    color: cyan;
     width: 100%;
-    text-align: center;
+    text-align: left;
 }
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #5a5a5a;
+    background-color: #000000;
 }
 .btn_bar {
     width: 100%;

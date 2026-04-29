@@ -1,0 +1,32 @@
+p {
+    color: snow;
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+}
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url('image.jpg');
+    font-family: Trebuchet MS, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+.btn_bar {
+    width: 100%;
+}
+.btn {
+    background-color: #1a1a1a;
+    
+    border-width: 1px;
+    margin-right: 9px;
+    border-style: solid;
+    border-color: snow;
+    border-radius: 5px;
+    float: left;
+    text-decoration: none;
+    color: snow;
+    padding: 5px 15px;
+}
